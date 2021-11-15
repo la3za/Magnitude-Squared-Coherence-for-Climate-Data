@@ -21,6 +21,8 @@ Run the program by typing 'prudence' at the Matlab prompt. Then select whether y
 The code requires the Matlab Signal Processing Toolbox from Mathworks for functions like mscohere, kaiser, and pburg. It runs on Matlab R2013b which seems to be the last version which supports the version of Aslak Grinsted's [Cross wavelet and wavelet coherence toolbox](http://grinsted.github.io/wavelet-coherence/) that I used.
 
 Other sources:
+* [HadCRUT3 dataset](https://www.metoffice.gov.uk/hadobs/hadcrut3/)
+* [JPL Horizons on-line solar system data and ephemeris computation service](https://ssd.jpl.nasa.gov/horizons/)
 * [WEACLIM](https://se.mathworks.com/matlabcentral/fileexchange/10881-weaclim) by Vincent Moron
 * Time and date utilities by Peter John Acklam
 
