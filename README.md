@@ -19,3 +19,5 @@ Open the zip-file and extract it in a separate directory. These sub-directories 
 Run the program by typing 'prudence' at the Matlab prompt. Then select whether you want the 2015 or the 2014 sets of figures to be generated. In the first case you will also be prompted to respond to whether you want a fast and inaccurate simulation of confidence intervals (nsim=10) for Figs. 6-8 or a slow, but accurate simulation (nsim=1000) as used in the paper.
 
 The code requires the Matlab Signal Processing Toolbox from Mathworks for functions like mscohere, kaiser, and pburg. It runs on Matlab R2013b which seems to be the last version which supports the Cross wavelet and wavelet coherence toolbox.
+
+For the context of these two papers see [Climate Data Oscillations and the Magnitude Squared Coherence](https://www.mn.uio.no/fysikk/english/people/aca/sverre/climate.html)
