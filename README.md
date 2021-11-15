@@ -9,6 +9,11 @@ The most unique aspect of this code is that it provides a way of finding confide
 
 The code will produce Figs. 1-9 in "Prudence in estimating coherence between planetary, solar and climate oscillations", Astrophys Space Sci, 2015, except the 95% confidence interval in Fig 5, since that builds on software from a third party (Stepan Poluianov). These Matlab figures all have numbers starting with 2015.
 
+Figure 2 is shown here:
+
+![inputdata.png]
+
+
 The code will also generate Figs. 1-5 and the data for Table 1 in "On the alleged coherence between the global temperature and the sun's movement", Journ Atmospher. Solar Terr. Physics, 2014 (including the Corrigendum), except the 95% confidence intervals in Figs. 4 and 5, since that builds on software from a third party (ShouYan Wang). These Matlab figures all have numbers starting with 2014.
 
 Open the zip-file and extract it in a separate directory. These sub-directories will then be created:
