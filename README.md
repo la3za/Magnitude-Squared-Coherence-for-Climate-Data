@@ -33,4 +33,4 @@ Other sources:
 * Time and date utilities by Peter John Acklam
 * Aslak Grinsted's [Cross wavelet and wavelet coherence toolbox](http://grinsted.github.io/wavelet-coherence/)
 
-For the context of these two papers see [Climate Data Oscillations and the Magnitude Squared Coherence](https://www.mn.uio.no/fysikk/english/people/aca/sverre/climate.html)
+For the context of why these papers were written, see [Climate Data Oscillations and the Magnitude Squared Coherence](https://www.mn.uio.no/fysikk/english/people/aca/sverre/climate.html)
