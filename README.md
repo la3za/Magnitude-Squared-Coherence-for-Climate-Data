@@ -18,6 +18,10 @@ Open the zip-file and extract it in a separate directory. These sub-directories 
 * 'WaveletCoherence' - for the Cross wavelet and wavelet coherence toolbox by Aslak Grinsted. These are the only files that are not included in the download. If you don't want to download and install this toolbox yourself, you may comment out the final 50 or so lines of the prudence.m program. Figures 4 and 5 of the 2015 paper then won't be generated.
 Run the program by typing 'prudence' at the Matlab prompt. Then select whether you want the 2015 or the 2014 sets of figures to be generated. In the first case you will also be prompted to respond to whether you want a fast and inaccurate simulation of confidence intervals (nsim=10) for Figs. 6-8 or a slow, but accurate simulation (nsim=1000) as used in the paper.
 
-The code requires the Matlab Signal Processing Toolbox from Mathworks for functions like mscohere, kaiser, and pburg. It runs on Matlab R2013b which seems to be the last version which supports the version of the [Cross wavelet and wavelet coherence toolbox](http://grinsted.github.io/wavelet-coherence/) that I used. 
+The code requires the Matlab Signal Processing Toolbox from Mathworks for functions like mscohere, kaiser, and pburg. It runs on Matlab R2013b which seems to be the last version which supports the version of Aslak Grinsted's [Cross wavelet and wavelet coherence toolbox](http://grinsted.github.io/wavelet-coherence/) that I used.
+
+Other sources:
+* [WEACLIM](https://se.mathworks.com/matlabcentral/fileexchange/10881-weaclim) by Vincent Moron
+* Time and date utilities by Peter John Acklam
 
 For the context of these two papers see [Climate Data Oscillations and the Magnitude Squared Coherence](https://www.mn.uio.no/fysikk/english/people/aca/sverre/climate.html)
