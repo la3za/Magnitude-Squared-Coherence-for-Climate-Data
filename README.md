@@ -25,6 +25,6 @@ Other sources:
 * [JPL Horizons on-line solar system data and ephemeris computation service](https://ssd.jpl.nasa.gov/horizons/)
 * [WEACLIM](https://se.mathworks.com/matlabcentral/fileexchange/10881-weaclim) by Vincent Moron
 * Time and date utilities by Peter John Acklam
-* Aslak Grinsted's [Cross wavelet and wavelet coherence toolbox][Cross wavelet and wavelet coherence toolbox](http://grinsted.github.io/wavelet-coherence/)
+* Aslak Grinsted's [Cross wavelet and wavelet coherence toolbox](http://grinsted.github.io/wavelet-coherence/)
 
 For the context of these two papers see [Climate Data Oscillations and the Magnitude Squared Coherence](https://www.mn.uio.no/fysikk/english/people/aca/sverre/climate.html)
