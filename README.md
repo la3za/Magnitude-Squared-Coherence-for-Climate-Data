@@ -11,7 +11,7 @@ The code will produce Figs. 1-9 in "Prudence in estimating coherence between pla
 
 Figure 2 is shown here:
 
-![inputdata.png]
+![Image](inputdata.png)
 
 
 The code will also generate Figs. 1-5 and the data for Table 1 in "On the alleged coherence between the global temperature and the sun's movement", Journ Atmospher. Solar Terr. Physics, 2014 (including the Corrigendum), except the 95% confidence intervals in Figs. 4 and 5, since that builds on software from a third party (ShouYan Wang). These Matlab figures all have numbers starting with 2014.
